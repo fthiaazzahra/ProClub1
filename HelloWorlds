@@ -1,0 +1,14 @@
+using System;
+
+
+class Program {
+    static void Main(string[] args) {
+      byte number= 225;
+      {
+        int a =100;
+        Console.WriteLine(number);
+        Console.WriteLine(a);
+      }
+       Console.WriteLine("Hello, Zaraaa");
+    }
+}
